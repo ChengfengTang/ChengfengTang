@@ -22,6 +22,9 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
   - **Fabflix Database Web App** ([Wallamovie.store])
     - Full-stack movie database (Java, MySQL, AWS, Tomcat, Bootstrap)
     - Advanced search, security, and responsive UI
+- 🔗 **Contact**
+  - **Email:** chengfengtang0903@gmail.com
+
   
   <h2> &nbsp;Languages I Am Familiar With</h2>
   <p align="left">
@@ -50,9 +53,6 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
 
 ---
 ![Snake animation](https://github.com/ChengfengTang/ChengfengTang/blob/output/github-contribution-grid-snake.svg)
-
-### 🔗 Contact
-- **Email:** chengfengtang0903@gmail.com
 
 <!-- Feel free to add more sections or personalize further! -->
 
