@@ -19,15 +19,24 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
     - Backtested with minute-level data, simulated 14.3% net gain in one week
   - **Crawler & Search Engine** (Python)
     - Crawled 52,000+ web pages, indexed 113,000+ tokens with TF-IDF, optimized query speed by 80%
-  - **Fabflix Database Web App** ([Wallamovie.store](http://wallamovie.store:8080/cs122b/login.html))
+  - **Fabflix Database Web App** ([Wallamovie.store])
     - Full-stack movie database (Java, MySQL, AWS, Tomcat, Bootstrap)
     - Advanced search, security, and responsive UI
 
 - 🛠️ **Skills:**
   - **Languages:** Python, Java, C++, C, MySQL, HTML/CSS
   - **Soft Skills:** Team Collaboration, Problem Solving, Project Management
-
-- 🌱 **Interests:** Hiking, Traveling, Gaming
+  
+  <h2> 🚀 &nbsp;Languages I Am Familiar With</h2>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  </p>
 
 ---
 
