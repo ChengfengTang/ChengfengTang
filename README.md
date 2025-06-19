@@ -6,22 +6,16 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
   - **University of Southern California** (M.S. in Computer Science, AI) — 2024–2026
   - **University of California, Irvine** (B.S. in Computer Science, GPA: 3.9/4.0) — 2020–2024
 
-- 💼 **Experience:**
-  - **Power Meta Corporation** (Data Center Engineer, Sep 2024 – Apr 2025)
-    - Automated log data aggregation for 1000+ servers (Python)
-    - Maintained and troubleshooted server hardware (CPU, GPU, network)
-    - Managed NVIDIA GPU setup and diagnostics (Bash, Python)
-    - Assembled 200+ servers for high-performance computing
-
 - 🚀 **Projects:**
-  - **AI Trading Bot** (Python, OpenAI, Robinhood API)
+  - **AI Trading Bot** 
     - Real-time intraday trading for TSLA/NVDA using technical indicators and sentiment analysis
     - Backtested with minute-level data, simulated 14.3% net gain in one week
-  - **Crawler & Search Engine** (Python)
+  - **Crawler & Search Engine** 
     - Crawled 52,000+ web pages, indexed 113,000+ tokens with TF-IDF, optimized query speed by 80%
-  - **Fabflix Database Web App** ([Wallamovie.store])
+  - **Fabflix Database Web App** 
     - Full-stack movie database (Java, MySQL, AWS, Tomcat, Bootstrap)
     - Advanced search, security, and responsive UI
+
 - 🔗 **Contact**
   - **Email:** chengfengtang0903@gmail.com
 
@@ -46,7 +40,7 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
       <img src="https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" width="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" width="400"/>
     </td>
   </tr>
 </table>
