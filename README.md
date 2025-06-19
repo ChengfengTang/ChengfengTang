@@ -40,10 +40,10 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" width="400"/>
     </td>
   </tr>
 </table>
