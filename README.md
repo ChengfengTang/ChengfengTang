@@ -34,16 +34,20 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
 ---
 
 ### 📈 GitHub Stats
+<div align="center">
+
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" width="300"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 ![Snake animation](https://github.com/ChengfengTang/ChengfengTang/blob/output/github-contribution-grid-snake.svg)
