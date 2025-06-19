@@ -22,12 +22,8 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
   - **Fabflix Database Web App** ([Wallamovie.store])
     - Full-stack movie database (Java, MySQL, AWS, Tomcat, Bootstrap)
     - Advanced search, security, and responsive UI
-
-- 🛠️ **Skills:**
-  - **Languages:** Python, Java, C++, C, MySQL, HTML/CSS
-  - **Soft Skills:** Team Collaboration, Problem Solving, Project Management
   
-  <h2> 🚀 &nbsp;Languages I Am Familiar With</h2>
+  <h2> &nbsp;Languages I Am Familiar With</h2>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
@@ -41,8 +37,16 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ChengfengTang&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChengfengTang&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
