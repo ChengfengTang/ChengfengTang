@@ -1,0 +1,81 @@
+\documentclass[10pt,a4paper,sans]{moderncv}
+
+% moderncv theme
+\moderncvstyle{banking}
+\moderncvcolor{black}
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.85]{geometry}
+\usepackage{url}
+
+% personal data
+\name{Chengfeng}{Tang}
+\address{5135 Ipswich Ct, Newark, CA 94560}
+\phone[mobile]{971-724-8635}
+\email{chengfengtang0903@gmail.com}
+
+\begin{document}
+\makecvtitle
+
+% Reduce vertical space after title
+\vspace{-1cm}  % Adjust this value to your preference
+
+\section{Education}
+\cventry{2024 -- Expected 2026}{Master of Computer Science in Artificial Intelligence}{University of Southern California }{Los Angeles, CA}{\textit{}}{Studying at USC Viterbi School of Engineering}
+\cventry{2020 - 2024}{Bachelor of Computer Science}{University of California Irvine}{Irvine, CA}{\textit{}}{Studying at UC Irvine Donald Bren School of Information and Computer Sciences \\ Overall GPA: 3.9/4.0}
+\begin{itemize}
+\item \textbf{Courses:} \small Machine/Data Mining (COMPSCI 178), Next Gen Search Systems (COMPSCI 125), Principles of Operating Systems (COMPSCI 143A), Project in Data \& Web Applications (COMPSCI 122B), Information Retrieval (COMPSCI 121), Design and Analysis of Algorithms (COMPSCI 161), Data Structures Implementation \& Analysis (ICS SCI 46)
+\end{itemize}
+
+\section{Work Experience}
+\cventry{Jun 2025 -- Aug 2025}{https://www.dreamfuture.cn/}{System Testing Intern}{Chongqing, China}{}{
+\begin{itemize}
+\item \textbf{Comprehensive System Testing:} Conducted thorough testing of enterprise software systems and digital platforms, ensuring quality assurance across multiple product lines including enterprise services, digital retail, and digital marketing solutions.
+\item \textbf{Test Automation Development:} Developed and implemented automated testing scripts to streamline the testing process, improving efficiency and reducing manual testing time for repetitive test cases.
+\item \textbf{Cross-functional Collaboration:} Worked closely with development teams to identify, document, and track software defects, ensuring timely resolution and maintaining high product quality standards.
+\item \textbf{Performance Testing:} Conducted performance and load testing on web applications and digital platforms to ensure optimal system performance under various user loads and conditions.
+\end{itemize}
+}
+
+\cventry{Sep 2024 -- Apr 2025}{Power Meta Corporation}{Data Center Engineer}{Irvine, CA}{}{
+\begin{itemize}
+\item \textbf{Automated Log Data Aggregation:} Designed and deployed a Python script to automate the collection and aggregation of log data from 1000+ servers, reducing manual effort by 80\% and improving analysis efficiency by 30\%.
+\item \textbf{Server Maintenance and Troubleshooting:} Regularly maintain and troubleshoot existing servers, diagnosing and resolving issues related to CPU, GPU, hard disk failures, and network connectivity, minimizing downtime and maintaining optimal server performance.
+\item \textbf{GPU Setup, Testing, and Performance Optimization:} Managed the setup, configuration, and testing of NVIDIA GPUs (2080 Ti and 3090 Ti) for high-performance computing environments. Developed Bash scripts for automating GPU diagnostics and performance testing, improving the efficiency of monitoring server health and reducing manual intervention. 
+\item \textbf{Server Hardware Assembly:} Assisted physical assembly of over 200 new servers, installing CPUs, GPUs, memory, and storage devices, ensuring optimal performance and reliability. 
+\end{itemize}
+}
+
+\section{Projects}
+
+\cventry{May 2025 -- Present}{\url{https://github.com/ChengfengTang/LOLJGTracker}}{League of Legends AI Jungler Tracker}{}{}{%
+• Developed a full-stack web application using Flask, MySQL, and JavaScript that tracks and visualizes League of Legends matches with focus on jungler movement prediction and game event analysis.\\
+• Implemented machine learning pipeline using TensorFlow/Keras with LSTM neural networks to predict jungler positions based on historical movement patterns, achieving accurate trajectory forecasting for strategic gameplay analysis.\\
+• Built comprehensive data processing system that extracts per-minute snapshots of player stats (position, level, CS, gold) and tracks game events (kills, deaths, monster kills, level ups) from Riot Games API.\\
+• Created interactive map visualization using p5.js for real-time champion movement tracking with event-based interpolation, enabling detailed replay analysis with accurate death timer calculations based on champion level and game time.\\
+• Designed scalable database architecture with optimized MySQL queries and implemented caching mechanisms for match data, reducing API calls by 60\% and improving application response time.\\
+• Integrated secure API key handling and implemented robust error handling for rate limiting and network failures, ensuring reliable data retrieval from Riot Games API.\\
+}
+
+\cventry{February 2023 -- June 2023}{University of California Irvine}{Crawler and Search Engine}{Irvine, CA}{}{%
+• Utilizing Python programming language to develop a web crawler to retrieve 52000+ web pages from the UCI ICS domain. \\
+• Designed a scalable partial indexer to store and process 113,000+ tokens, incorporating TF-IDF scoring for ranking search results. The indexer utilized file splitting by categorizing tokens into 27 separate files based on their starting character, resulting in an 80\% improvement in query processing time. \\
+• Implemented a search engine with boolean retrieval, positional indexing, and memory optimization for commonly used words. \\
+}
+
+\cventry{February 2023 -- June 2023}{\url{https://github.com/ChengfengTang/CS122B\_Wallamovie}}{Fabflix Database}{Irvine, CA}{}{%
+• Designed and deployed a web application for the Fabflix project using Tomcat, Apache, and Amazon Web Services (AWS).\\
+• Built a normalized MySQL database to efficiently store and manage over 600,000 movie records, optimizing queries for high-speed data retrieval. \\ 
+• Enhanced performance and usability by integrating connection pooling and implementing advanced search features, including autocomplete, fuzzy search, and robust error handling. \\ 
+• Implemented security measures such as HTTPS encryption, Google reCAPTCHA, and secure session management to protect user data. \\
+• Developed a responsive and user-friendly interface using Java, JDBC, HTML/CSS, and Bootstrap, adhering to modern web development standards. \\ 
+}
+
+\section{Skills}
+\cvitem{Programming Languages}{Python, Java, C++, C, mySQL, HTML/CSS, JavaScript}
+\cvitem{Frameworks \& Libraries}{Flask, TensorFlow/Keras, p5.js, Bootstrap, JDBC}
+\cvitem{Technologies}{Machine Learning, Neural Networks (LSTM), API Integration, Database Design, Web Development}
+\cvitem{Soft Skills}{Team Collaboration, Problem Solving, Project Management}
+\cvitem{Interests}{Hiking, Traveling, Gaming}
+\end{document}
