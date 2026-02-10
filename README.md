@@ -6,16 +6,6 @@ I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC wi
   - **University of Southern California** (M.S. in Computer Science, AI) — 2024–2026
   - **University of California, Irvine** (B.S. in Computer Science, GPA: 3.9/4.0) — 2020–2024
 
-- 🚀 **Projects:**
-  - **AI Trading Bot** 
-    - Real-time intraday trading for TSLA/NVDA using technical indicators and sentiment analysis
-    - Backtested with minute-level data, simulated 14.3% net gain in one week
-  - **Crawler & Search Engine** 
-    - Crawled 52,000+ web pages, indexed 113,000+ tokens with TF-IDF, optimized query speed by 80%
-  - **Fabflix Database Web App** 
-    - Full-stack movie database (Java, MySQL, AWS, Tomcat, Bootstrap)
-    - Advanced search, security, and responsive UI
-
 - 🔗 **Contact**
   - **Email:** chengfengtang0903@gmail.com
 
