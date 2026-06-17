@@ -3,7 +3,7 @@
 I'm **Chengfeng Tang**, a passionate Computer Science graduate student at USC with a strong background in AI, data engineering, and full-stack development.
 
 - 🎓 **Education:**
-  - **University of Southern California** (M.S. in Computer Science, AI) — 2024–2026
+  - **University of Southern California** (M.S. in Computer Science, AI) — 2025–Present
   - **University of California, Irvine** (B.S. in Computer Science, GPA: 3.9/4.0) — 2020–2024
 
 - 🔗 **Contact**
